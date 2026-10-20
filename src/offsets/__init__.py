@@ -1,0 +1,1 @@
+"""Offset resolution for MW4 builds."""
