@@ -1,0 +1,26 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# mw4-trainer runtime
+logs/
+dumps/
+*.log
+*.dmp
+offsets/cache/
+config/user.toml
+config/*.local.toml
+
+# ide
+.vscode/
+.idea/
+*.swp
+
+# build
+dist/
+build/
+*.spec
