@@ -1,0 +1,1 @@
+"""Output drivers — memory writes and overlay rendering."""
