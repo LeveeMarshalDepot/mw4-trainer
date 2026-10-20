@@ -1,0 +1,1 @@
+"""State processors — transform raw game state into feature output."""
