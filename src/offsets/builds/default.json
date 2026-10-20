@@ -1,0 +1,8 @@
+{
+  "entity_list": "0x0A1B2C30",
+  "entity_stride": "0x1A0",
+  "view_matrix": "0x0A4D0010",
+  "local_player": "0x0A1B2F08",
+  "camera_manager": "0x0A4CFE00",
+  "recoil_table": "0x0A2E1180"
+}
